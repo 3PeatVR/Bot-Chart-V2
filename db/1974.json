@@ -1,0 +1,29 @@
+{
+    "1January": [
+        {
+            "country": "United Kingdom",
+            "name": "Slade",
+            "song": "Merry Xmas Everybody"
+        },
+        {
+            "country": "United States",
+            "name": "Jim Croce",
+            "song": "Time In A Bottle"
+        },
+        {
+            "country": "Australia",
+            "name": "Helen Reddy",
+            "song": "Leave Me Alone"
+        },
+        {
+            "country": "Canada",
+            "name": "Charlie Rich",
+            "song": "The Most Beautiful Girl In The World"
+        },
+        {
+            "country": "Germany",
+            "name": "Lobo",
+            "song": "I'd Love You To Want Me"
+        }
+    ]
+}

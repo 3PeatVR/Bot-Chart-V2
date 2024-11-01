@@ -1,0 +1,17 @@
+{
+  "name": "top-chart-bot-v2",
+  "version": "1.0.0",
+  "description": "Bot version that uses DB",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "^^",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "puppeteer": "^23.6.0"
+  }
+}
+
